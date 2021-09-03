@@ -1,5 +1,6 @@
 class hello
+s
 {
-   sytem.out.println("Hello Application");
+   system.out.println("Hello Application");
 }
 
